@@ -1,4 +1,4 @@
-**I build systems whose behaviour can be predicted and then proved.**
+Building systems whose behaviour can be predicted and then proved.
 
 - **Senior Embedded Linux Platform Engineer** — Linux, real-time firmware, services and deployment. Silicon to service engineering.
 - **Neuralburn** — independent ML research: concept association via Voigt kernel convolution. Deterministic multi-agent development system.
